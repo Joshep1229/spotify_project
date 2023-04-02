@@ -4,9 +4,9 @@
 
 
 
-**Las playlist usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos del top 50 y el modelo, se actualizan **semanalmente**.
+**Las playlists usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos generados y el modelo, se actualizan **semanalmente**.
 
-Esto permite que  que **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones de los 3 países.**
+Esto permite que  que **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones de los 3 países.** Tmando en cuenta las canciones que ingresen y salgan del top.
 
 Flujo en la nube
 1. Cargar Información desde la **API de spotify**.
