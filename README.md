@@ -2,7 +2,7 @@
 
 Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
-
+![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
 
 **Las playlists usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos generados y el modelo, se actualizan **semanalmente**.
 
@@ -25,6 +25,8 @@ Para mayor detalle, se puede revisar el código o el trabajo escrito.
 
 
 
+
+
 	
-![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
+
 
