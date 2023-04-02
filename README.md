@@ -1,12 +1,10 @@
 # spotify_project
 
-Éste proyecto contiene una solución end to end **en la nube** para ejecutar python desde la extracción hasta la visualización y el modelo de recomendación.
+Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
-**Las playlist usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos se actualizan semanalmente, esto permite que  que **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones.**
 
-Para mayor detalle, se puede revisar el código o el trabajo escrito.
 
-El flujo completo se ejecuta semanalmente usando el orquestador **Vertex AI**
+**Las playlist usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos se actualizan **semanalmente**, esto permite que  que **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones de los 3 países.**
 
 Flujo en la nube
 1. Cargar Información desde la **API de spotify**.
@@ -18,3 +16,5 @@ Flujo en la nube
 6. Visualizar los resultados en Google datastudio para visualizar la información.
     6.1 La primera hoja contiene el dashboard.
     6.2 La segunda hoja contiene el modelo de recomendaciones generadas por el modelo.
+
+Para mayor detalle, se puede revisar el código o el trabajo escrito.
