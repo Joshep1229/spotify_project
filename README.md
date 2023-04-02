@@ -1,3 +1,4 @@
+
 # spotify_project
 
 Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
