@@ -14,7 +14,9 @@ Flujo en la nube
 4. Con SQL cargar el archivo de csv guardado en el bucket en la base de datos de **Google Bigquery de GCP** (que está en postgres).
 5. Conectar la base de datos de Google Bigquery a **Google Datastudio (Visualizador)** 
 6. Visualizar los resultados en Google datastudio para visualizar la información.
+
     6.1 La primera hoja contiene el dashboard.
+    
     6.2 La segunda hoja contiene el modelo de recomendaciones generadas por el modelo.
 
 Para mayor detalle, se puede revisar el código o el trabajo escrito.
