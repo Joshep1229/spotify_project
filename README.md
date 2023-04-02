@@ -4,7 +4,7 @@
 
 Para mayor detalle, se puede revisar el código o el trabajo escrito.
 
-El flujo completo se ejecuta semanalmente usando el orquestados **Vertex AI**
+El flujo completo se ejecuta semanalmente usando el orquestador **Vertex AI**
 
 Flujo en la nube
 1. Cargar Información desde la **API de spotify**.
