@@ -22,3 +22,9 @@ Flujo en la nube
     6.2 La segunda hoja contiene el modelo de recomendaciones generadas por el modelo.
 
 Para mayor detalle, se puede revisar el código o el trabajo escrito.
+
+
+
+	
+![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
+
