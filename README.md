@@ -9,10 +9,13 @@ Integrantes
 
 Estudiantes de Maestría en Inteligencia Artificial. 
 
+Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).
 
 Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
 **Las playlists usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos generados y el modelo, se actualizan **semanalmente**.
+
+
 
 ![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
 
