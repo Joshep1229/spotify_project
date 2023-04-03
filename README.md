@@ -16,12 +16,11 @@ Estudiantes de Maestría en Inteligencia Artificial.
 Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
 **Las playlists usadas fueron el top 50 global, el top 50 Brazil y el top 50 Corea del sur.** Los datos generados y el modelo, se actualizan **semanalmente**.
+Esto permite que  el sistema **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones de los 3 países.** Tomando en cuenta las canciones que ingresen o salgan del top.
 
 
 
 ![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
-
-Esto permite que  el sistema **siempre generará recomendaciones nuevas y personalizadas de las mejores 50 canciones de los 3 países.** Tomando en cuenta las canciones que ingresen o salgan del top.
 
 Flujo en la nube
 1. Cargar Información desde la **API de spotify**.
