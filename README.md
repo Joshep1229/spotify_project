@@ -9,6 +9,8 @@
 
 Estudiantes de Maestría en Inteligencia Artificial. 
 
+
+## **Link explicación en video del flujo. -10 min- [Flujo](https://youtu.be/52CaeujRUC4)
 ## **Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).**
 
 ## **El código contiene el modelo y el pipeline está Google Collab -Tercera entrega.-,  está explicado paso a paso el flujo que se realizó** (Ver file Pipeline_Spotify.) [Google Collab](https://github.com/Joshep1229/spotify_project/blob/main/Pipeline_Spotify.ipynb)
