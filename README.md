@@ -1,7 +1,7 @@
 
 # Spotify Project
 
-Integrantes 
+**Integrantes**
 
 **Joshep Andersson Blanco Reyes**
 
@@ -9,9 +9,9 @@ Integrantes
 
 Estudiantes de Maestría en Inteligencia Artificial. 
 
-**Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).**
+## **Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).**
 
-**Alcance General del proyecto**
+### **Alcance General del proyecto**
 
 Éste proyecto contiene una solución end to end **en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
@@ -22,7 +22,7 @@ Esto permite que  el sistema **siempre generará recomendaciones nuevas y person
 
 ![alt text](https://github.com/Joshep1229/spotify_project/blob/main/Images/Pipeline%20Grafico.JPG?raw=true)
 
-Flujo en la nube
+### **Flujo en la nube**
 1. Cargar Información desde la **API de spotify**.
 2. Preprocesarla y generar cuatro datasets (Artistas, canciones, género y datos de modelo.)
 3. Procesar **modelo de recomendaciones** y guardar los resultados como un csv (Recomendaciones)
