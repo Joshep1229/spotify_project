@@ -14,7 +14,7 @@ Estudiantes de Maestría en Inteligencia Artificial.
  **Éste proyecto contiene una solución end to end en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
 
 
-## **Link de explicación del trabajo final. -10 min- [Flujo Youtube](https://youtu.be/52CaeujRUC4)**
+## **Link de demostración práctica del flujo. -10 min- [Flujo Youtube](https://youtu.be/52CaeujRUC4)**
 ## **Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).**
 
 ## **El código contiene el modelo y el pipeline está Google Collab -Tercera entrega.-,  está explicado paso a paso el flujo que se realizó** (Ver file Pipeline_Spotify.) [Google Collab](https://github.com/Joshep1229/spotify_project/blob/main/Pipeline_Spotify.ipynb)
