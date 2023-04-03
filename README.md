@@ -11,7 +11,7 @@ Estudiantes de Maestría en Inteligencia Artificial.
 
 ## **Link del dashboard y el modelo de recomendación en producción [Google Datastudio](https://lookerstudio.google.com/reporting/86e0b128-1eda-4927-ae03-42a04ea3a4d0).**
 
-## **Pipeline creado en google Collab, allí estará explicado paso a paso el flujo que se realizó** (File Pipeline_Spotify.)
+## **El código contiene el modelo y el pipeline está Google Collab -Tercera entrega.-,  está explicado paso a paso el flujo que se realizó** (Ver file Pipeline_Spotify.) [Google Collab](https://github.com/Joshep1229/spotify_project/blob/main/Pipeline_Spotify.ipynb)
 
 ## **En la carpeta entregas, están todas las entregas realizadas en el semestre** 
 
