@@ -13,6 +13,8 @@ Estudiantes de Maestría en Inteligencia Artificial.
 
 ## **Pipeline creado en google Collab, allí estará explicado paso a paso el flujo que se realizó** (File Pipeline_Spotify.)
 
+## **En la carpeta entregas, están todas las entregas realizadas en el semestre** 
+
 ### **Alcance General del proyecto**
 
  **Éste proyecto contiene una solución end to end en la nube** para ejecutar desde la extracción hasta la visualización y el modelo de recomendación de forma automática usando VertexAI.
