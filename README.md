@@ -5,7 +5,7 @@
 
 **Joshep Andersson Blanco Reyes**
 
-**Laura Estrada Saldarriaga**
+
 
 Estudiantes de Maestría en Inteligencia Artificial. 
 
